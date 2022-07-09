@@ -61,5 +61,5 @@ docker-compose exec web python manage.py collectstatic --no-input
 ## Заполнение базы данными
 
 ```
-python manage.py loaddata dump.json 
+docker-compose exec web python manage.py loaddata fixtures.json 
 ```
