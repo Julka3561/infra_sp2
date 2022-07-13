@@ -9,7 +9,7 @@
 
 Проект упакован в Docker контейнеры.
 
-Образ на DockerHub: julka3561/api_yamdb:v1.0
+Образ на DockerHub: julka3561/api_yamdb:v1.1
 
 ## Шаблон заполнения .env файла
 
